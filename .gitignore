@@ -1,3 +1,4 @@
+*-init.clj
 /resources/public/js/compiled/**
 figwheel_server.log
 pom.xml
@@ -6,9 +7,12 @@ pom.xml
 /classes/
 /out/
 /target/
+.clj-kondo/
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
+.lsp/
+.rebel_readline_history
 .repl
 .nrepl-port
 

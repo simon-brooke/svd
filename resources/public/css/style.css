@@ -1,2 +1,25 @@
 /* some style */
 
+body,
+.app {
+    padding: 0;
+    margin: 0;
+}
+
+.desktop {
+    background-color: gray;
+}
+
+.executive {
+    background-color: black;
+    color: green;
+}
+
+.titlebar {
+    background-color: cornflowerblue;
+}
+
+.window {
+    background-color: whitesmoke;
+    color: darkslategrey;
+}

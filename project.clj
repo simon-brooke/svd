@@ -6,7 +6,9 @@
 
   :min-lein-version "2.9.1"
 
-  :dependencies [[org.clojure/clojure "1.11.1"]
+  :dependencies [[cljsjs/snapsvg "0.4.1-0"]
+                 [hiccups "0.3.0"]
+                 [org.clojure/clojure "1.11.1"]
                  [org.clojure/clojurescript "1.11.60"]
                  [org.clojure/core.async  "1.6.673"]]
 
