@@ -1,5 +1,4 @@
-(ns svd.window
-  (:require [devtools.defaults :as defaults]))
+(ns svd.window)
 
 (def defaults
   {:title-height 20})
